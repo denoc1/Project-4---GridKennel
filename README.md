@@ -86,7 +86,7 @@ public ArrayList<Dog> filterByWeight(int min, int max)
 <b>If no dogs meet the criteria</b>, return `null`.
 <b>If the kennel is empty</b>, return `null`.
 
-### 8.  Cound Dogs by Breed
+### 8.  Count Dogs by Breed
 ```java
 public void countByBreed()
 ```
